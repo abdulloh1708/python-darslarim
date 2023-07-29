@@ -7,15 +7,15 @@ Mavzu: If- elif- else
 Muallif: Abdulloh
 """
 
-#yosh = int(input('Yoshingiz nechida?: '))
-#if yosh <=4:
-#    print("Sizga kirish bepul.")
-#elif yosh<=12:
-#    print("Sizga kirish 5000 so'm")
-#elif yosh<=20:
-#    print("Sizga kirish 8000 so'm")
-#else:
-#    print("Sizga kirish 1000 so'm")
+yosh = int(input('Yoshingiz nechida?: '))
+if yosh <=4:
+    print("Sizga kirish bepul.")
+elif yosh<=12:
+    print("Sizga kirish 5000 so'm")
+elif yosh<=20:
+    print("Sizga kirish 8000 so'm")
+else:
+    print("Sizga kirish 1000 so'm")
 
 #yosh = int(input('Yoshingiz nechida?: '))
 #if yosh <=15:
